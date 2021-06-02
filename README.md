@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**About me**
+
+Here with Andrés, passionate about IT, software, business strategy and execution, and others.
+
+- 🔭 I’m currently helping http://retailcompass.com/ to have a better IT Platform, thanks to them because they provide me with big problems to solve and great people to work with.
+- 🌱 I’m currently learning Kubernetes and moving to more IT architecture than software architecture, where previously i was.
+- 👯 I’m very curious about bussinesses and how to get them operate better (control, automate, minimize human errors, and so on)
+- 🤔 I’m looking for opportunities to help with. 
+- 💬 Ask me if you want to learn about IT Architecture and Software Architecture, currently i am very interested in Kubernetes as a platform.
+- 📫 How to reach me: adrz1@hotmail.com
